@@ -1,5 +1,5 @@
 # bouncyball
-A 2D hypercasual game in Unity and written in C#
+A 2D hypercasual game in Unity and written in C#.
 Rules for the game
 1-The camera will look from the side. 
 2-The ball moves on the platform in a horizontal plane.
